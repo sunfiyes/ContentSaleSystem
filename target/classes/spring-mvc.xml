@@ -49,6 +49,7 @@
     <mvc:resources mapping="/js/**" location="/js/" />
     <mvc:resources mapping="/image/**" location="/image/" />
     <mvc:resources mapping="/include/**" location="ftl/include/" />
+    <mvc:resources mapping="/plugins/**" location="/plugins/" />
 
 
    <!-- 对模型视图添加前后缀 -->
