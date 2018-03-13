@@ -38,7 +38,7 @@
                 <tr>
                     <td class="img"><a href="/detail?id=${x.id}&type=seller"><img src="${x.image}" alt="${x.title}"></a></td>
                     <td class="title"><h4><a href="/detail?id=${x.id}&type=seller">${x.title}</a></h4></td>
-                    <td class="price"><span class="v-unit">¥</span><span class="value">${x.salePrice}</span></td>
+                    <td class="price"><span class="v-unit">¥</span><span class="value">${x.saleprice}</span></td>
                     <td class="inventory"><span id="inventory">${x.inventory}</span></td>
                     <td class="status">
                         <#if x.status == 1>

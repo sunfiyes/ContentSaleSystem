@@ -24,7 +24,7 @@
             <div class="price">
                 促销价：
                 <span class="v-unit">¥</span>
-                <span class="v-value">${product.salePrice}</span>
+                <span class="v-value">${product.saleprice}</span>
             </div>
             <div class="num">
                 库存：
